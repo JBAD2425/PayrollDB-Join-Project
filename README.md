@@ -43,8 +43,6 @@ INNER JOIN Departments D ON E.DeptID = D.DeptID;
 
 ## Screenshots
 
-## Screenshots
-
 ### 1. Created Table (Departments)
 ![Created Table 1](./screenshots/Created_table_1.jpeg)
 
