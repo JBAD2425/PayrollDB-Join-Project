@@ -43,20 +43,21 @@ INNER JOIN Departments D ON E.DeptID = D.DeptID;
 
 ## Screenshots
 
+## Screenshots
+
 ### 1. Created Table (Departments)
-![Created Table](./screenshots/Created_Table_1.png)
+![Created Table 1](./screenshots/Created_table_1.jpeg)
 
 ### 2. All Tables Created
-![Created Tables](./screenshots/Created_Tables.png)
+![Created Table 2](./screenshots/Created_table_2.jpg)
 
 ### 3. INNER JOIN Result
-![Inner Join](./screenshots/Inner_Join.png)
+![Inner Join](./screenshots/Inner_Join.jpg)
 
 ### 4. LEFT JOIN Result
-![Left Join](./screenshots/Left_Join.png)
+![Left Join](./screenshots/Left_Join.jpg)
 
 ### 5. RIGHT JOIN Result
-![Right Join](./screenshots/Right_Join.png)
+![Right Join](./screenshots/Right_Join.jpg)
 
-### 6. FULL JOIN Result
-![Full Join](./screenshots/Full_Join.png)
+
